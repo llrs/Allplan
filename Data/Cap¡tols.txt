@@ -1,0 +1,19 @@
+idCap	codCap	nomCap
+1	0	Actuacions prèvies
+2	D	Demolicions
+3	A	Condicionament del terreny
+4	C	Fonamentacions
+5	E	Estructures
+6	F	Façanes i particions
+7	L	Fusteria, manyeria, vidres i proteccions solars
+8	H	Acabaments i ajudes
+9	I	Instal·lacions
+10	N	Aïllaments e impermeabilitzacions
+11	Q	Cobertes
+12	R	Revestiments i extrasdossats
+13	S	Senyalització i equipament
+14	U	Urbanització interior de la parcel·la
+15	G	Gestió de residus
+16	X	Control de qualitat i assaigs
+17	Y	Seguretat i salut
+18	Z	Rehabilitació energètica

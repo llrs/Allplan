@@ -1,0 +1,18 @@
+#
+1
+2
+C06\01            Premarcs de portes 70 / 80 cm                                         
+C06\02            Premarcs de finestres                                                 
+C06\03            Premarcs de finestres amb persiana                                    
+C06\04            Portes d'interior de 80 cm normals, lacades                             
+C06\05            Portes d'interior de 70 cm normals, lacades                             
+C06\06            Portes d'interior de 80 cm, tarja vidre                               
+C06\07            Porta d'exterior de 70 cm, tarja vidre                                
+C06\08            Finestres de fusta, doble vidre, amb registre per la caixa de persiana.                             
+C06\09            Finestres de fusta, doble vidre                                       
+C06\10            Finestra d'alumini de lamel·les de vidre horitzontal                             
+C06\11            Formació d'altell autorresistent amb registres                             
+C06\12            Persianes enrotllables als forats de les finestres de menjador                             
+C06\13            Persianes enrotllables sobreposades per l'exterio                             
+C06\14            Porta d'entrada massissa, de 70 cm                                    
+1234567890123456789
